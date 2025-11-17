@@ -10,7 +10,7 @@ Hey, I’m Elijah.<br>I build tools, scripts, and applications that automate wor
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=elijah-bennett0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=elijah-bennett0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elijah-bennett0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=elijah-bennett0&theme=dark&layout=compact&hide=roff,makefile&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=elijah-bennett0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
