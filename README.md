@@ -1,5 +1,5 @@
 # About Me:
-Hey, I’m Elijah.<br>I build tools, scripts, and applications that automate workflows, break security, and streamline development. I’m especially interested in Python, Linux, backend engineering, and exploring low-level technologies.
+Hey, I’m Elijah.<br>I build tools, scripts, and applications that automate workflows, break security, and streamline development. I’m especially interested in Python, Linux, backend engineering, and exploit development.
 
 
 ## 🌐 Socials:
