@@ -21,7 +21,7 @@ Interested in low-level security, exploit development, and capabilities engineer
 ## 🏅 Certifications
 
 <p align="left">
-  <a href="https://www.credly.com/badges/81040306-1f22-49a0-8702-de3db10f8323/public_url"><img src="assets/comptia-a-ce-certification.png" width="84" /></a><a href="https://www.credly.com/badges/48268ae7-bbfc-4217-ba09-e0b8a70d5b18/public_url"><img src="assets/comptia-network-ce-certification.png" width="84" /></a><a href="https://www.credly.com/badges/72560a36-ac83-4ce5-95d1-688a2d9c83d4/public_url"><img src="assets/comptia-security-ce-certification.png" width="84" /></a><a href="https://www.credly.com/badges/2cd7f11b-279e-4b8c-9d9f-7e55ebed1360/public_url"><img src="assets/comptia-pentest-ce-certification.png" width="84" /></a>
+  <a href="https://www.credly.com/badges/81040306-1f22-49a0-8702-de3db10f8323/public_url"><img src="assets/comptia-a-ce-certification.png" width="84" /></a><a href="https://www.credly.com/badges/48268ae7-bbfc-4217-ba09-e0b8a70d5b18/public_url"><img src="assets/comptia-network-ce-certification.png" width="84" /></a><a href="https://www.credly.com/badges/72560a36-ac83-4ce5-95d1-688a2d9c83d4/public_url"><img src="assets/comptia-security-ce-certification.png" width="84" /></a><a href="https://www.credly.com/badges/2cd7f11b-279e-4b8c-9d9f-7e55ebed1360/public_url"><img src="assets/comptia-pentest-ce-certification.png" width="84" /></a><a href="https://www.credly.com/badges/5cdb736e-79c3-469e-b33e-6f4e0b8920be/public_url"><img src="assets/ccna.png" width="84" /></a>
 </p>
 
 
