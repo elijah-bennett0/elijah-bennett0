@@ -37,9 +37,6 @@ Interested in low-level security, exploit development, and capabilities engineer
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=elijah-bennett0&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=elijah-bennett0&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=elijah-bennett0&icon=0&color=13)](https://visitcount.itsvg.in)
 
