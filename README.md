@@ -7,7 +7,7 @@ Interested in low-level security, exploit development, and capabilities engineer
 
 - **2016** — Began programming at 15, writing small VBS and Batch scripts for Windows automation and experimentation.
 - **2017–2019** — Shifted into Python and Bash; explored system internals and began learning C and low-level concepts.
-- **High School Years** — Focused heavily on Python development and cybersecurity; participated in CTFs including Hack The Box and picoCTF. Began exploring reverse engineering and exploitation fundamentals.
+- **High School Years** — Focused heavily on Python development and cybersecurity; participated in CTFs including Hack The Box and PicoCTF. Began exploring reverse engineering and exploitation fundamentals.
 - **2020–2022** — Expanded into Assembly, C, and security-oriented tooling. Built early automation utilities and experimented with exploit workflows.
 - **2023–2025** — Earned CompTIA A+, Network+, Security+, PenTest+, and CCNA. Developed deeper interest in reverse engineering and exploit development.
 - **Present** — Working with tools like Ghidra, angr, pyelftools, pwntools, GEF/GDB, and custom Python/C/Assembly scripts to build reversing and exploitation automation tools.
